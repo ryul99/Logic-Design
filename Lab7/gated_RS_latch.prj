@@ -1,0 +1,2 @@
+verilog work "RS_latch.v"
+verilog work "gated_RS_latch.v"

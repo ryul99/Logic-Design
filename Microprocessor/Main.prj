@@ -1,0 +1,4 @@
+verilog work "DataMemory.v"
+verilog work "clkdiv.v"
+verilog work "bcd_decode.v"
+verilog work "Main.v"
